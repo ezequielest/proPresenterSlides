@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RVPresentationDocument height="720" width="1280" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 0" drawingBackgroundColor="false" CCLIDisplay="false" lastDateUsed="2018-04-07T12:53:11+00:00" selectedArrangementID="" category="Cancion" resourcesDirectory="" notes="" CCLIAuthor="" CCLIArtistCredits="" CCLISongTitle="" CCLIPublisher="" CCLICopyrightYear="" CCLISongNumber="" chordChartPath="" os="1" buildNumber="6016">
+  <RVTimeline timeOffset="0" duration="0" selectedMediaTrackIndex="-1" loop="false" rvXMLIvarName="timeline">
+    <array rvXMLIvarName="timeCues" />
+    <array rvXMLIvarName="mediaTracks" />
+  </RVTimeline>
+  <array rvXMLIvarName="groups">
+    <RVSlideGrouping name="" color="0 0 0 1" uuid="6BB4268E-9C9F-47A1-836F-B4907845F1C5">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="Welcome To ProPresenter" notes="" UUID="0AD9369B-B70F-4BAD-83E8-2FB7B9442D0E" chordChartPath="">
+          <array rvXMLIvarName="cues">
+            <RVSlideTimerCue UUID="0C7BC070-BB63-41B6-A059-31B5FACB1070" displayName="Go to Next" actionType="9" enabled="1" timeStamp="0" delayTime="0" loopToBeginning="false" duration="6" />
+          </array>
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement displayName="Welcome To ProPresenter 6" UUID="8fa9bd06-2424-414f-b85f-4940513cf308" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CwelcomeText.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="0" transitionDirection="0" transitionDuration="1.5" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="1" slideBuildAction="3" slideBuildDelay="1.6" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{150 516 0 974 62}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="ProPresenter Logo" UUID="16b29135-33d9-41a3-9111-4533b332f831" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CProLogo.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{0.9987684, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="0" transitionDirection="0" transitionDuration="1.5" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="0" slideBuildAction="3" slideBuildDelay="1" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{240 91 0 812 456}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Bokeh Background" UUID="a58541eb-d583-4a31-9b34-002fda93198e" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CWelcomeBackground.jpg" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+          <RVTransition transitionType="0" transitionDirection="0" transitionDuration="1" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="0" slideBuildAction="0" slideBuildDelay="0" rvXMLIvarName="transitionObject" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="Share Your Story" notes="" UUID="8115F112-D757-407A-9378-D1618A1E5D4A" chordChartPath="">
+          <array rvXMLIvarName="cues">
+            <RVSlideTimerCue UUID="4A40C106-B81E-4624-AE56-2CE4A7552DEF" displayName="Go to Next" actionType="9" enabled="1" timeStamp="0" delayTime="0" loopToBeginning="false" duration="6" />
+          </array>
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement displayName="We're Thrilled" UUID="342225ed-cf83-4f1d-a8df-1aae38f6453a" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CstoryText4.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{0.9990403, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="0" transitionDirection="0" transitionDuration="1" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="0" slideBuildAction="3" slideBuildDelay="0.8" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{116 227 0 1042 90}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">15|0 0 0 0,709803921568627|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="You've Allowed Us to help tell" UUID="134824f1-1725-40e6-8c42-713b283b3244" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CstoryText2.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="0" transitionDirection="0" transitionDuration="1" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="1" slideBuildAction="3" slideBuildDelay="1.4" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{92 337 0 1096 46}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">15|0 0 0 0,709803921568627|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Your story" UUID="81c40601-962d-4421-a8ce-333e51bfac8d" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CstoryText3.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="0" transitionDirection="0" transitionDuration="1" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="2" slideBuildAction="3" slideBuildDelay="2" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{229 403 0 822 92}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">15|0 0 0 0,709803921568627|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Crowd Background" UUID="13f62dac-a373-486c-a372-a55f754b46d5" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CStoryBackground.jpg" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+          <RVTransition transitionType="0" transitionDirection="0" transitionDuration="1" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="0" slideBuildAction="0" slideBuildDelay="0" rvXMLIvarName="transitionObject" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="Find Hardware" notes="" UUID="3441ED22-0BE4-42DC-9D89-6FC7840852DF" chordChartPath="">
+          <array rvXMLIvarName="cues">
+            <RVSlideTimerCue UUID="8BE310D3-4974-4199-9D02-2BBCBB2CC460" displayName="Go to Next" actionType="9" enabled="1" timeStamp="0" delayTime="0" loopToBeginning="false" duration="6" />
+          </array>
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement displayName="at RenewedVision.com/store" UUID="7b7a8a43-419d-4eaf-94b4-f67d0426f9e7" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CgearText2.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{0.998494, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="130" transitionDirection="0" transitionDuration="1.4" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="2" slideBuildAction="3" slideBuildDelay="1.5" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{76 606 0 664 50}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="We sell hardware &amp; peripherals" UUID="2ec3c84f-6adf-4329-83de-f0cee1e47a48" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CgearText1.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="130" transitionDirection="0" transitionDuration="1.4" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="3" slideBuildAction="3" slideBuildDelay="1.2" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{78 550 0 722 50}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Item 4" UUID="54364b5e-6ebf-430c-9ef4-67dc1fe3e9ac" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5Citem4.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 0.9937466}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="1.8" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="5" slideBuildAction="3" slideBuildDelay="0.5" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{955 408 0 326 312}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">6|0 0 0 0|{-4.52420867775452E+16, 3.395811352949E+16}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Item 3" UUID="14debc8a-9479-4937-9421-e59a869537fd" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5Citem3.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 0.9968153}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="1.8" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="4" slideBuildAction="3" slideBuildDelay="0.3" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{719 234 0 428 314}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Item 2" UUID="9db1c9f4-e097-4423-a4bb-0e501c2cce81" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CItem2.jpg" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="1.8" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="1" slideBuildAction="0" slideBuildDelay="0.3" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{347 149 0 490 308}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Item 1" UUID="6787efc1-4787-43b1-8d35-5b301bff1d6d" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CItem1.jpg" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{0.9977639, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="2" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="0" slideBuildAction="0" slideBuildDelay="0" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{114 -4 0 208 388}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVShapeElement displayName="White Background" UUID="2b55156b-b1dd-4136-bdfa-649b15ad5e75" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="true" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVShapeElement>
+          </array>
+          <RVTransition transitionType="120" transitionDirection="0" transitionDuration="1" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="0" slideBuildAction="0" slideBuildDelay="0" rvXMLIvarName="transitionObject" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="Need Media?" notes="" UUID="839F9B5D-0F95-4E1F-A164-EC8936061079" chordChartPath="">
+          <array rvXMLIvarName="cues">
+            <RVSlideTimerCue UUID="4E10F5C1-E868-4994-AB71-A8AAB4E39AA6" displayName="Go to Next" actionType="9" enabled="1" timeStamp="0" delayTime="0" loopToBeginning="false" duration="6" />
+          </array>
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement displayName="Media 8" UUID="5401b74d-924e-4265-8d24-d8f688b9436a" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CmediaStack8.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="1.5" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="3" slideBuildAction="3" slideBuildDelay="1.2" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{45 4 0 582 466}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">15|0 0 0 0,709803921568627|{-209027023561380, -4.00533432001082E+16}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Media 7" UUID="099bec6a-d659-4c28-82cf-3818dbfce166" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CmediaStack7.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="1.5" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="4" slideBuildAction="3" slideBuildDelay="1.1" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{44 55 0 582 466}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">15|0 0 0 0,709803921568627|{2.82842707633972E+16, -2.82842707633973E+16}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Media 6" UUID="84492ca4-f4c7-4a27-8f98-d4a52f07855e" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CmediaStack6.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="1.5" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="5" slideBuildAction="3" slideBuildDelay="1" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{46 107 0 582 466}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">15|0 0 0 0,709803921568627|{2.82842707633972E+16, -2.82842707633973E+16}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Media 5" UUID="4440ca0f-7d19-42d2-a30b-3c927c092cbe" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CmediaStack5.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="1.5" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="6" slideBuildAction="3" slideBuildDelay="0.9" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{46 159 0 582 466}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">15|0 0 0 0,709803921568627|{3.86059640454037E+16, -1.04680246524831E+16}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Media 4" UUID="a93c4446-4e88-4fb4-90cc-b94d3846287d" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CmediaStack4.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="1.5" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="7" slideBuildAction="3" slideBuildDelay="0.8" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{47 212 0 582 466}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">4|0 0 0 0,709803921568627|{8.39358668458942E+16, -9.41185263211155E+15}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Media 3" UUID="beff76e6-d191-44b3-a265-417157b5b449" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CmediaStack3.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="1.5" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="8" slideBuildAction="3" slideBuildDelay="0.7" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{45 260 0 582 466}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">15|0 0 0 0,709803921568627|{1.87548137841442E+16, -881098856030663}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Media 2" UUID="d786695c-fc2d-4ffe-b576-c20a4cca61f6" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CmediaStack2.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="1.5" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="9" slideBuildAction="3" slideBuildDelay="0.6" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{43 309 0 582 466}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">15|0 0 0 0,709803921568627|{-5.49428133157155E+15, -5.5661967449272E+16}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Media 1" UUID="b5f2910c-ed88-4741-91fc-47e826e6cca8" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CmediaStack1.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="1.5" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="10" slideBuildAction="3" slideBuildDelay="0.5" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{42 351 0 582 466}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">15|0 0 0 0|{1.99574577298817E+16, -1.30379483047959E+15}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="We Have You Covered" UUID="c5067832-6721-4841-beb2-ee15266912d9" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CMediaText3.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="0" transitionDirection="0" transitionDuration="2" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="0" slideBuildAction="3" slideBuildDelay="3" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{731 465 0 462 28}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Media?" UUID="aa10e03c-97cf-4e8d-b68f-b626518f1d58" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CMediaText2.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 0.9897959}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="0" transitionDirection="0" transitionDuration="2" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="1" slideBuildAction="3" slideBuildDelay="2.5" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{688 350 0 502 98}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Need" UUID="365990bb-ac8e-4b69-8d55-2e5b40b6f1f5" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CMediaText1.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="0" transitionDirection="0" transitionDuration="2" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="2" slideBuildAction="3" slideBuildDelay="2" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{840 239 0 346 94}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Media Background" UUID="c1e99b22-e3d8-4d05-a924-effa9844a7d8" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CMediaBackground.jpg" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+          <RVTransition transitionType="0" transitionDirection="0" transitionDuration="1" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="0" slideBuildAction="0" slideBuildDelay="0" rvXMLIvarName="transitionObject" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="Visit The Store" notes="" UUID="EA4E89D2-4F65-4557-8B54-46ABA0A152D6" chordChartPath="">
+          <array rvXMLIvarName="cues">
+            <RVSlideTimerCue UUID="D4CD154B-BAAC-4B0D-8E1D-2E951644275C" displayName="Go to Next" actionType="9" enabled="1" timeStamp="0" delayTime="0" loopToBeginning="false" duration="6" />
+          </array>
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement displayName="Right within ProPresenter" UUID="237710bf-3be3-4142-a33b-831c4004bf78" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CstoreText2.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{0.998615, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="130" transitionDirection="0" transitionDuration="1.5" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="2" slideBuildAction="3" slideBuildDelay="0.8" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{279 540 0 722 64}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">10|0 0 0 0,984313725490196|{-2.22241533650415E+15, -1.02284952440168E+17}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Visit the RenewedVision Media Store" UUID="3bedc408-89cf-4c85-b63d-871192e55eee" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CstoreText1.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 0.9816902}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="130" transitionDirection="0" transitionDuration="1.5" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="1" slideBuildAction="3" slideBuildDelay="0.6" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{107 471 0 1066 52}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">10|0 0 0 0,984313725490196|{1E+17, -1216796465.87552}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Store Logo" UUID="182e2a04-dbba-45de-8997-a6f9211b45d2" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CstoreIcon.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{0.9999314, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="130" transitionDirection="0" transitionDuration="1.1" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="0" slideBuildAction="3" slideBuildDelay="0.5" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{471 117 0 338 346}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Store Background" UUID="bedc565c-fda8-4fd4-b1f0-55c5fad38860" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CStoreBackground.jpg" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+          <RVTransition transitionType="140" transitionDirection="0" transitionDuration="1" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="0" slideBuildAction="0" slideBuildDelay="0" rvXMLIvarName="transitionObject" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="Get Help in the Forums" notes="" UUID="86E60197-4877-4633-ABAE-9E74E8C9D56B" chordChartPath="">
+          <array rvXMLIvarName="cues">
+            <RVSlideTimerCue UUID="AA82F38C-B592-4109-9B78-956AEAC0D645" displayName="Go to Next" actionType="9" enabled="1" timeStamp="0" delayTime="0" loopToBeginning="false" duration="6" />
+          </array>
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement displayName="Bottom Text" UUID="a8246df0-5a37-4760-a59e-1c51d2152a0c" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CironText4.jpg" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{0.998994, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="0" transitionDirection="0" transitionDuration="2" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="3" slideBuildAction="3" slideBuildDelay="2.2" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{139 507 0 994 110}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Iron (Bottom)" UUID="fb851dfa-f892-4e7e-a2d6-12493600561b" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CironText3.jpg" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 0.993272}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="0" transitionDirection="0" transitionDuration="2" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="2" slideBuildAction="3" slideBuildDelay="1.6" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{468 369 0 344 104}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Sharpens" UUID="45fdefb2-72db-49fe-ae72-db88ef08be62" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CironText2.jpg" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 0.9915771}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="0" transitionDirection="0" transitionDuration="2" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="1" slideBuildAction="3" slideBuildDelay="1.2" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{281 244 0 718 102}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Iron (top)" UUID="c87835ff-a9da-40a8-b7f6-6c8cad691ca4" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CironText1.jpg" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 0.9937648}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="0" transitionDirection="0" transitionDuration="2" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="0" slideBuildAction="3" slideBuildDelay="0.8" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{465 110 0 348 110}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Tools Background" UUID="6bdb9a86-7812-4c8a-ba8f-6c3012390148" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CironBackground.jpg" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+          <RVTransition transitionType="0" transitionDirection="0" transitionDuration="1" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="0" slideBuildAction="0" slideBuildDelay="0" rvXMLIvarName="transitionObject" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="Follow @ProPresenter" notes="" UUID="D55145A3-21A3-45B1-837C-1719427FEB2A" chordChartPath="">
+          <array rvXMLIvarName="cues">
+            <RVSlideTimerCue UUID="49F8E080-919E-40DA-813D-04A2ABC3C3C2" displayName="Go to Next" actionType="9" enabled="1" timeStamp="0" delayTime="0" loopToBeginning="false" duration="6" />
+          </array>
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement displayName="@ProPresenter" UUID="428c9e1b-6fc8-4519-ac56-795a9dcac19f" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CfollowText2.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="130" transitionDirection="0" transitionDuration="1" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="2" slideBuildAction="3" slideBuildDelay="0.7" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{416 573 0 448 52}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Follow us on Twitter and Instagram" UUID="6a9cbd80-ad2b-4dab-b7c2-88b9263d3987" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CfollowText1.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="130" transitionDirection="0" transitionDuration="1" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="3" slideBuildAction="3" slideBuildDelay="0.5" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{137 493 0 1006 66}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Instagram Logo" UUID="4c9b34f7-79b2-4430-8a41-37d98e2bf5cd" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CfollowInstagram.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 0.9960318}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="130" transitionDirection="0" transitionDuration="1" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="1" slideBuildAction="3" slideBuildDelay="0.3" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{774 167 0 254 252}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Twitter Logo" UUID="e7741b35-02fd-49cd-af98-1dbd0f67f868" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CfollowTwitter.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{0.9967949, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="130" transitionDirection="0" transitionDuration="1" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="0" slideBuildAction="3" slideBuildDelay="0.2" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{251 167 0 312 252}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Follow Background" UUID="680c3727-bddf-455d-8c58-d338398119b0" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CfollowBackground.jpg" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+          <RVTransition transitionType="120" transitionDirection="0" transitionDuration="1" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="0" slideBuildAction="0" slideBuildDelay="0" rvXMLIvarName="transitionObject" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="&amp; Tag ProPresenter" notes="" UUID="491B205C-71F0-4B5E-BF78-38DAAF64FD77" chordChartPath="">
+          <array rvXMLIvarName="cues">
+            <RVSlideTimerCue UUID="B73FB285-A4C2-47F0-8E32-6F23AB16393C" displayName="Go to Next" actionType="9" enabled="1" timeStamp="0" delayTime="0" loopToBeginning="true" duration="6" />
+          </array>
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement displayName="ShareImage7" UUID="d18dcda4-efd1-448e-858d-a91c1c9a5de2" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CshareImage7.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{0.9966216, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="2" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="6" slideBuildAction="3" slideBuildDelay="1.2" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{986 398 0 296 322}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="ShareImage6" UUID="4c30625f-0eba-4970-bf26-bc3212b24d4e" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CshareImage6.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 0.9995543}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="2" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="8" slideBuildAction="3" slideBuildDelay="1" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{797 333 0 466 386}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="ShareImage5" UUID="ea809ea3-6a76-446d-b96e-216c75012a3c" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CshareImage5.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{0.997561, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="2" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="7" slideBuildAction="3" slideBuildDelay="0.7" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{612 366 0 410 366}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="ShareImage4" UUID="2d7e4b80-3ff5-4e78-bc42-65705adf2b15" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CshareImage4.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 0.9971429}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="2" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="5" slideBuildAction="3" slideBuildDelay="1.1" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{413 372 0 424 350}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="ShareImage3" UUID="4de2e57e-bfb9-4c55-aacb-f9f4f6226976" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CshareImage3.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 0.9990068}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="2" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="4" slideBuildAction="3" slideBuildDelay="0.9" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{257 393 0 486 328}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="ShareImage2" UUID="e1b32068-2669-485a-8a76-62d9567b2d88" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CshareImage2.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{0.9966216, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="2" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="1" slideBuildAction="3" slideBuildDelay="0.6" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{-1 442 0 296 278}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="ShareImage1" UUID="9d961df5-74a4-4ac7-a23c-f1f5e3bad3b6" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CshareImage1.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{0.997549, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="91" transitionDirection="0" transitionDuration="2" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="0" slideBuildAction="3" slideBuildDelay="0.3" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{20 374 0 408 380}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="Use #ProPresenter to let us know" UUID="4fa36967-706e-4014-8ab1-1c66cb3f6db5" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CshareText2.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 0.975}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="130" transitionDirection="0" transitionDuration="1.5" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="3" slideBuildAction="3" slideBuildDelay="0.1" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{212 220 0 856 40}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="How do you use ProPresenter" UUID="f143ffd6-1e29-4d5d-96c7-a78361c4eb3b" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CshareText1.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 0.9870216}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVTransition transitionType="130" transitionDirection="0" transitionDuration="1.5" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="2" slideBuildAction="3" slideBuildDelay="0.3" rvXMLIvarName="transitionInObject" />
+              <RVRect3D rvXMLIvarName="position">{98 133 0 1084 72}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+            <RVImageElement displayName="hashTag Background" UUID="8cb36190-45c4-4a78-adea-f3954513507e" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImages%5CshareBackground.jpg" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="0 0 0 0" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{4, -4}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+          <RVTransition transitionType="140" transitionDirection="0" transitionDuration="1" motionEnabled="false" motionDuration="0" motionSpeed="0" groupIndex="0" orderIndex="0" slideBuildAction="0" slideBuildDelay="0" rvXMLIvarName="transitionObject" />
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+  </array>
+  <array rvXMLIvarName="arrangements" />
+</RVPresentationDocument>
