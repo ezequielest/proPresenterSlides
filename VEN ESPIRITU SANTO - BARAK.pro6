@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<RVPresentationDocument height="1024" width="1280" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 1" drawingBackgroundColor="false" CCLIDisplay="false" lastDateUsed="" selectedArrangementID="" category="Presentation" resourcesDirectory="" notes="" CCLIAuthor="" CCLIArtistCredits="" CCLISongTitle="" CCLIPublisher="" CCLICopyrightYear="" CCLISongNumber="" chordChartPath="" os="1" buildNumber="6016">
+<RVPresentationDocument height="1024" width="1280" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 1" drawingBackgroundColor="false" CCLIDisplay="false" lastDateUsed="2018-11-16T20:50:00+00:00" selectedArrangementID="" category="Presentation" resourcesDirectory="" notes="" CCLIAuthor="" CCLIArtistCredits="" CCLISongTitle="" CCLIPublisher="" CCLICopyrightYear="" CCLISongNumber="" chordChartPath="" os="1" buildNumber="6016">
   <RVTimeline timeOffset="0" duration="0" selectedMediaTrackIndex="-1" loop="false" rvXMLIvarName="timeline">
     <array rvXMLIvarName="timeCues" />
     <array rvXMLIvarName="mediaTracks" />
@@ -10,7 +10,7 @@
         <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="1 1 1 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="E7A8D3FB-91FB-4565-BAD5-BD5D75FBADDC" chordChartPath="">
           <array rvXMLIvarName="cues" />
           <array rvXMLIvarName="displayElements">
-            <RVTextElement displayName="Default" UUID="6413422c-3678-4604-923f-a030c6f8ceca" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+            <RVTextElement displayName="Default" UUID="452ec26d-5378-45b7-b86b-93b8db2389f5" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
               <RVRect3D rvXMLIvarName="position">{38.48916 74 0 1205 944}</RVRect3D>
               <shadow rvXMLIvarName="shadow">4|0 0 0 1|{282843, -282843}</shadow>
               <dictionary rvXMLIvarName="stroke">
@@ -27,7 +27,7 @@
         <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="1 1 1 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="D827058C-5145-44B8-B4AE-679835A96D93" chordChartPath="">
           <array rvXMLIvarName="cues" />
           <array rvXMLIvarName="displayElements">
-            <RVTextElement displayName="Default" UUID="ac1b7917-5d04-480a-8ee0-52ccd03586d3" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+            <RVTextElement displayName="Default" UUID="ba353dbe-3f1b-40c8-94da-5013bdca7266" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
               <RVRect3D rvXMLIvarName="position">{37.84056 40 0 1205 944}</RVRect3D>
               <shadow rvXMLIvarName="shadow">4|0 0 0 1|{282843, -282843}</shadow>
               <dictionary rvXMLIvarName="stroke">
@@ -44,7 +44,7 @@
         <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="1 1 1 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="13A7F2FD-653B-48EC-9B35-A1A5C635766E" chordChartPath="">
           <array rvXMLIvarName="cues" />
           <array rvXMLIvarName="displayElements">
-            <RVTextElement displayName="Default" UUID="e29dca3e-d0a0-4a94-8f81-0aefcaee2ce2" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+            <RVTextElement displayName="Default" UUID="8f17f7d6-9707-406f-9798-eb5f9bd6e852" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
               <RVRect3D rvXMLIvarName="position">{38 40 0 1205 944}</RVRect3D>
               <shadow rvXMLIvarName="shadow">4|0 0 0 1|{282843, -282843}</shadow>
               <dictionary rvXMLIvarName="stroke">
@@ -61,7 +61,7 @@
         <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="1 1 1 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="3E2C6030-C8D5-43F0-B6D2-05904470D200" chordChartPath="">
           <array rvXMLIvarName="cues" />
           <array rvXMLIvarName="displayElements">
-            <RVTextElement displayName="Default" UUID="6d3fec4a-f2aa-4ac5-b6de-efd703cf9943" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+            <RVTextElement displayName="Default" UUID="b79bec40-61c0-4738-a587-66430346f4ac" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
               <RVRect3D rvXMLIvarName="position">{38 40 0 1205 944}</RVRect3D>
               <shadow rvXMLIvarName="shadow">4|0 0 0 1|{282843, -282843}</shadow>
               <dictionary rvXMLIvarName="stroke">
@@ -78,7 +78,7 @@
         <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="1 1 1 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="AA9616D7-87CA-4824-92D1-3FA9C055D292" chordChartPath="">
           <array rvXMLIvarName="cues" />
           <array rvXMLIvarName="displayElements">
-            <RVTextElement displayName="Default" UUID="8dcfe522-992a-44d9-b64b-53e922b0c8c4" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+            <RVTextElement displayName="Default" UUID="2393c816-b0d7-48d9-8edd-a151caaf4020" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
               <RVRect3D rvXMLIvarName="position">{38 40 0 1205 944}</RVRect3D>
               <shadow rvXMLIvarName="shadow">4|0 0 0 1|{282843, -282843}</shadow>
               <dictionary rvXMLIvarName="stroke">
