@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<RVPresentationDocument height="768" width="1024" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 1" drawingBackgroundColor="false" CCLIDisplay="false" lastDateUsed="2018-07-08T12:05:20+00:00" selectedArrangementID="" category="Presentation" resourcesDirectory="" notes="" CCLIAuthor="" CCLIArtistCredits="" CCLISongTitle="" CCLIPublisher="" CCLICopyrightYear="" CCLISongNumber="" chordChartPath="" os="1" buildNumber="6016">
+<RVPresentationDocument height="768" width="1024" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 1" drawingBackgroundColor="false" CCLIDisplay="false" lastDateUsed="2019-11-10T13:11:22+00:00" selectedArrangementID="" category="Presentation" resourcesDirectory="" notes="" CCLIAuthor="" CCLIArtistCredits="" CCLISongTitle="" CCLIPublisher="" CCLICopyrightYear="" CCLISongNumber="" chordChartPath="" os="1" buildNumber="6016">
   <RVTimeline timeOffset="0" duration="0" selectedMediaTrackIndex="-1" loop="false" rvXMLIvarName="timeline">
     <array rvXMLIvarName="timeCues" />
     <array rvXMLIvarName="mediaTracks" />
@@ -12,7 +12,7 @@
             <RVSlideTimerCue UUID="6F1867AB-5748-41FC-B12B-603997AE33F1" displayName="Go to Next" actionType="9" enabled="1" timeStamp="0" delayTime="0" loopToBeginning="false" duration="15" />
           </array>
           <array rvXMLIvarName="displayElements">
-            <RVImageElement displayName="Default" UUID="be90c436-b855-4951-9564-f829a2725c9c" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CUsers%5CCielos%20Abiertos%5CDesktop%5CMultimedia%5Ciddlogo-blanco.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+            <RVImageElement displayName="Default" UUID="61b4cc02-c45a-4d23-b07c-2d349de99d79" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CUsers%5CCielos%20Abiertos%5CDesktop%5CMultimedia%5Ciddlogo-blanco.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
               <RVRect3D rvXMLIvarName="position">{682.4425 302 0 234 165}</RVRect3D>
               <shadow rvXMLIvarName="shadow">0|0 0 0 1|{494974746830583, -494974746830583}</shadow>
               <dictionary rvXMLIvarName="stroke">
@@ -20,7 +20,7 @@
                 <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
               </dictionary>
             </RVImageElement>
-            <RVTextElement displayName="Default" UUID="f1925a17-2f22-464e-8211-f6ae7c3cc280" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+            <RVTextElement displayName="Default" UUID="1ae0d54f-2e6c-4ae2-abf8-ed40e2cc67df" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
               <RVRect3D rvXMLIvarName="position">{30 30 0 964 708}</RVRect3D>
               <shadow rvXMLIvarName="shadow">4|0 0 0 1|{282843, -282843}</shadow>
               <dictionary rvXMLIvarName="stroke">
@@ -39,8 +39,8 @@
             <RVSlideTimerCue UUID="3585D02A-1A83-4A00-84F2-DC0C601898FC" displayName="Go to Next" actionType="9" enabled="1" timeStamp="0" delayTime="0" loopToBeginning="true" duration="15" />
           </array>
           <array rvXMLIvarName="displayElements">
-            <RVImageElement displayName="Default" UUID="3bfbbe62-7c49-4da2-92db-82aeb3b3e34a" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CUsers%5CCielos%20Abiertos%5CDesktop%5CMultimedia%5Ciddlogo-blanco.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="2" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 0.9172441}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
-              <RVRect3D rvXMLIvarName="position">{162.188 97.62393 0 660 508}</RVRect3D>
+            <RVImageElement displayName="Default" UUID="18e17ef0-939c-4d2e-8686-147af3ad0734" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CUsers%5CCielos%20Abiertos%5CDesktop%5CMultimedia%5Ciddlogo-blanco.png" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="2" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 0.9172441}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{182.1491 129 0 660 508}</RVRect3D>
               <shadow rvXMLIvarName="shadow">0|0 0 0 1|{494974746830583, -494974746830583}</shadow>
               <dictionary rvXMLIvarName="stroke">
                 <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
